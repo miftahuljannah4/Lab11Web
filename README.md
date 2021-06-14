@@ -6,7 +6,7 @@
 # Langkah-langkah Praktikum
 
 # 1. Aktifasi Xampp
-![xmp](https://user-images.githubusercontent.com/81582495/121797284-84f10900-cc49-11eb-8f8f-49303cf835fb.PNG)
+![Screenshot (152)](https://user-images.githubusercontent.com/81582495/121889333-52c3d200-cd43-11eb-9bcc-f7d44c48c9cc.png)
 
 # 2. Mengaktifkan Ekstentsi
 ![ext](https://user-images.githubusercontent.com/81582495/121797318-b10c8a00-cc49-11eb-9f6b-2b9b43f3f32a.png)
@@ -30,6 +30,7 @@
 
 # 8. Routing dan Controller
 ![Screenshot (146)](https://user-images.githubusercontent.com/81582495/121797850-0dbd7400-cc4d-11eb-88b6-9e5309ba41cc.png)
+![Screenshot (153)](https://user-images.githubusercontent.com/81582495/121890450-923eee00-cd44-11eb-85ca-dc6419496012.png)
 
 # 9. Membuat Routing
 ![routes](https://user-images.githubusercontent.com/81582495/121797874-36de0480-cc4d-11eb-9ab9-53ff2d1da3f8.png)
