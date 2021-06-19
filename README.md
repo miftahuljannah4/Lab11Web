@@ -1,9 +1,10 @@
-# Lab11Web
+# Lab11Web 
 # Nama  : Miftahul Jannah
 # Kelas : TI19B2
 # NIM   : 311910740
+# Lab11Web dan Lab12Web
 
-# Langkah-langkah Praktikum
+# Langkah-langkah Praktikum Lab11Web
 
 # 1. Aktifasi Xampp
 ![Screenshot (152)](https://user-images.githubusercontent.com/81582495/121889333-52c3d200-cd43-11eb-9bcc-f7d44c48c9cc.png)
@@ -71,4 +72,65 @@
 ![Screenshot (150)](https://user-images.githubusercontent.com/81582495/121798510-01d3b100-cc51-11eb-900e-732adb537714.png)
 ![kontak2](https://user-images.githubusercontent.com/81582495/121798536-2def3200-cc51-11eb-9f5d-7d8d7254ddfb.png)
 ![Screenshot (151)](https://user-images.githubusercontent.com/81582495/121798511-04cea180-cc51-11eb-8aa6-826cc344726e.png)
+
+# Langkah-langkah Praktikum Lab12Web (Lanjutan Lab11Web)
+
+# 1 Membuat Database dan Tabel
+![image](https://user-images.githubusercontent.com/81582495/122651625-3f11d480-d164-11eb-9d28-9854e94be1ac.png)
+
+# 2 Konfigurasi Koneksi Database
+![image](https://user-images.githubusercontent.com/81582495/122651651-65377480-d164-11eb-8f8a-30e6549272b1.png)
+
+# 3 Membuat Model Artikel ArtikelModel.php
+![Screenshot (205)](https://user-images.githubusercontent.com/81582495/122651699-b3e50e80-d164-11eb-85db-711ae1147d01.png)
+
+# 4 Mmbuat Model Controller Artikel.php
+![Screenshot (190)](https://user-images.githubusercontent.com/81582495/122651717-e3941680-d164-11eb-9501-53556db7b7a9.png)
+
+# 5 Mambuat View index.php Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
+![Screenshot (206)](https://user-images.githubusercontent.com/81582495/122651790-5ef5c800-d165-11eb-9618-c3e3a9da60aa.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/81582495/122651768-3e2d7280-d165-11eb-9923-dfa8acba7a0b.png)
+
+# 6 Mengisi Database
+![Capture](https://user-images.githubusercontent.com/81582495/122651821-8351a480-d165-11eb-90d8-c311e819ac64.PNG)
+![Screenshot (188)](https://user-images.githubusercontent.com/81582495/122651839-a11f0980-d165-11eb-9dfb-1c80c02a4aa1.png)
+
+# 7 Membuat Tampilan Detai Artikel 
+![Screenshot (191)](https://user-images.githubusercontent.com/81582495/122651859-bf850500-d165-11eb-90a7-4112cebf7fef.png)
+
+# 8 Membuat View Detail app/views/artikel/detail.php.
+![Screenshot (207)](https://user-images.githubusercontent.com/81582495/122651906-f4915780-d165-11eb-80a1-cea7dbb6eafc.png)
+
+# 9 Membuat Routing untuk artikel detail di app/config/Routes.php,
+![Screenshot (199)](https://user-images.githubusercontent.com/81582495/122651934-17bc0700-d166-11eb-95d1-3d6a965fd934.png)
+
+# 10 
+![Screenshot (189)](https://user-images.githubusercontent.com/81582495/122651944-302c2180-d166-11eb-974b-2450bc21afcb.png)
+
+# 11 Membuat Menu Admin, Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+![Screenshot (192)](https://user-images.githubusercontent.com/81582495/122651986-75505380-d166-11eb-9a83-209a817fba61.png)
+![Screenshot (196)](https://user-images.githubusercontent.com/81582495/122652004-931db880-d166-11eb-8d6f-b210ab539603.png)
+ 
+# 12 Menambahkan Routing untuk Menu Admin kemudian Akses menu admin dengan url http://localhost:8080/admin/artikel
+![Screenshot (200)](https://user-images.githubusercontent.com/81582495/122652020-bba5b280-d166-11eb-9806-79a371b87220.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/81582495/122652044-d546fa00-d166-11eb-8a91-33fe70aca923.png)
+
+# 13 Menambahkan Data Artikel Kemudian buat view untuk form tambah dengan nama form_add.php
+![Screenshot (208)](https://user-images.githubusercontent.com/81582495/122652082-01fb1180-d167-11eb-98b2-9a6f3664bfd5.png)
+![Screenshot (194)](https://user-images.githubusercontent.com/81582495/122652098-1d661c80-d167-11eb-9542-c362ce1ba879.png)
+![Screenshot (209)](https://user-images.githubusercontent.com/81582495/122652111-3d95db80-d167-11eb-8c6f-ecf6bfb091ec.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/81582495/122652344-92862180-d168-11eb-8389-5eb1c8b67531.png)
+
+# 14 Mengubah Data Artikel kemuadian membuat view untuk form edit dengan nama form_edit.php
+![Screenshot (210)](https://user-images.githubusercontent.com/81582495/122652187-a5e4bd00-d167-11eb-8e32-17d0be3136f8.png)
+![Screenshot (211)](https://user-images.githubusercontent.com/81582495/122652201-b8f78d00-d167-11eb-8aa9-46a780c3b7e8.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/81582495/122652237-f0fed000-d167-11eb-80a4-b963381281f0.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/81582495/122652313-6074bf80-d168-11eb-98f0-2960e1d92174.png)
+
+# 15 Menghapus Data Artikel 
+![Screenshot (212)](https://user-images.githubusercontent.com/81582495/122652265-155aac80-d168-11eb-8590-8c383c06131e.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/81582495/122652344-92862180-d168-11eb-8389-5eb1c8b67531.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/81582495/122652366-ba758500-d168-11eb-8512-4768f73aeb92.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/81582495/122652373-bcd7df00-d168-11eb-8682-8eba6ff050ca.png)
+
 
