@@ -103,31 +103,29 @@
 
 # 9 Membuat Routing untuk artikel detail di app/config/Routes.php,
 ![Screenshot (199)](https://user-images.githubusercontent.com/81582495/122651934-17bc0700-d166-11eb-95d1-3d6a965fd934.png)
-
-# 10 
 ![Screenshot (189)](https://user-images.githubusercontent.com/81582495/122651944-302c2180-d166-11eb-974b-2450bc21afcb.png)
 
-# 11 Membuat Menu Admin, Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+# 10 Membuat Menu Admin, Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
 ![Screenshot (192)](https://user-images.githubusercontent.com/81582495/122651986-75505380-d166-11eb-9a83-209a817fba61.png)
 ![Screenshot (196)](https://user-images.githubusercontent.com/81582495/122652004-931db880-d166-11eb-8d6f-b210ab539603.png)
  
-# 12 Menambahkan Routing untuk Menu Admin kemudian Akses menu admin dengan url http://localhost:8080/admin/artikel
+# 11 Menambahkan Routing untuk Menu Admin kemudian Akses menu admin dengan url http://localhost:8080/admin/artikel
 ![Screenshot (200)](https://user-images.githubusercontent.com/81582495/122652020-bba5b280-d166-11eb-9806-79a371b87220.png)
 ![Screenshot (201)](https://user-images.githubusercontent.com/81582495/122652044-d546fa00-d166-11eb-8a91-33fe70aca923.png)
 
-# 13 Menambahkan Data Artikel Kemudian buat view untuk form tambah dengan nama form_add.php
+# 12 Menambahkan Data Artikel Kemudian buat view untuk form tambah dengan nama form_add.php
 ![Screenshot (208)](https://user-images.githubusercontent.com/81582495/122652082-01fb1180-d167-11eb-98b2-9a6f3664bfd5.png)
 ![Screenshot (194)](https://user-images.githubusercontent.com/81582495/122652098-1d661c80-d167-11eb-9542-c362ce1ba879.png)
 ![Screenshot (209)](https://user-images.githubusercontent.com/81582495/122652111-3d95db80-d167-11eb-8c6f-ecf6bfb091ec.png)
 ![Screenshot (215)](https://user-images.githubusercontent.com/81582495/122652344-92862180-d168-11eb-8389-5eb1c8b67531.png)
 
-# 14 Mengubah Data Artikel kemuadian membuat view untuk form edit dengan nama form_edit.php
+# 13 Mengubah Data Artikel kemuadian membuat view untuk form edit dengan nama form_edit.php
 ![Screenshot (210)](https://user-images.githubusercontent.com/81582495/122652187-a5e4bd00-d167-11eb-8e32-17d0be3136f8.png)
 ![Screenshot (211)](https://user-images.githubusercontent.com/81582495/122652201-b8f78d00-d167-11eb-8aa9-46a780c3b7e8.png)
 ![Screenshot (212)](https://user-images.githubusercontent.com/81582495/122652237-f0fed000-d167-11eb-80a4-b963381281f0.png)
 ![Screenshot (214)](https://user-images.githubusercontent.com/81582495/122652313-6074bf80-d168-11eb-98f0-2960e1d92174.png)
 
-# 15 Menghapus Data Artikel 
+# 14 Menghapus Data Artikel 
 ![Screenshot (212)](https://user-images.githubusercontent.com/81582495/122652265-155aac80-d168-11eb-8590-8c383c06131e.png)
 ![Screenshot (215)](https://user-images.githubusercontent.com/81582495/122652344-92862180-d168-11eb-8389-5eb1c8b67531.png)
 ![Screenshot (216)](https://user-images.githubusercontent.com/81582495/122652366-ba758500-d168-11eb-8512-4768f73aeb92.png)
