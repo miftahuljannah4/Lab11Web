@@ -2,7 +2,7 @@
 # Nama  : Miftahul Jannah
 # Kelas : TI19B2
 # NIM   : 311910740
-# Lab11Web dan Lab12Web
+# Lab11Web, Lab12Web dan Lab13Web
 
 # Langkah-langkah Praktikum Lab11Web
 
@@ -12,11 +12,11 @@
 # 2. Mengaktifkan Ekstentsi
 ![ext](https://user-images.githubusercontent.com/81582495/121797318-b10c8a00-cc49-11eb-9f6b-2b9b43f3f32a.png)
 
-# 3. Instalasi Codeigniter 4
-![tmpln](https://user-images.githubusercontent.com/81582495/121797368-e87b3680-cc49-11eb-9ec6-05bdeb9c256c.png)
-
-# 4. Php Spark
+# 3. Php Spark
 ![spark](https://user-images.githubusercontent.com/81582495/121797458-748d5e00-cc4a-11eb-810a-315c130c4c53.PNG)
+
+# 4. Instalasi Codeigniter 4
+![tmpln](https://user-images.githubusercontent.com/81582495/121797368-e87b3680-cc49-11eb-9ec6-05bdeb9c256c.png)
 
 # 5. Mengaktifkan Mode Debugging
 ![aktfdb](https://user-images.githubusercontent.com/81582495/121797478-92f35980-cc4a-11eb-965c-d0a06d4f50d7.PNG)
@@ -130,5 +130,33 @@
 ![Screenshot (215)](https://user-images.githubusercontent.com/81582495/122652344-92862180-d168-11eb-8389-5eb1c8b67531.png)
 ![Screenshot (216)](https://user-images.githubusercontent.com/81582495/122652366-ba758500-d168-11eb-8512-4768f73aeb92.png)
 ![Screenshot (217)](https://user-images.githubusercontent.com/81582495/122652373-bcd7df00-d168-11eb-8682-8eba6ff050ca.png)
+
+# Langkah-Langkah Praktikum 13 Lanjutan
+
+# 1. Membuat Table User
+![image](https://user-images.githubusercontent.com/81582495/122961739-e3875700-d3ae-11eb-93db-284c349b2dde.png)
+
+# 2. Membuat Model User
+![Screenshot (224)](https://user-images.githubusercontent.com/81582495/122960381-8c34b700-d3ad-11eb-8499-61c2093bdd95.png)
+
+# 3. Membuat Controller User
+![Screenshot (231)](https://user-images.githubusercontent.com/81582495/122960595-c00fdc80-d3ad-11eb-8368-71b5f769cece.png)
+
+# 4. Membuat View Log In
+![Screenshot (223)](https://user-images.githubusercontent.com/81582495/122960768-f3526b80-d3ad-11eb-80e5-d4ab45537f90.png)
+
+# 5. Membuat Database Seeder
+![image](https://user-images.githubusercontent.com/81582495/122962093-424cd080-d3af-11eb-86ae-a449fc7fd014.png)
+![Screenshot (228)](https://user-images.githubusercontent.com/81582495/122962183-5bee1800-d3af-11eb-94eb-8bce4b306e78.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/81582495/122962239-66a8ad00-d3af-11eb-9bd4-cd49837d605e.png)
+
+# 6. Menambahkan Auth Filter
+![Screenshot (227)](https://user-images.githubusercontent.com/81582495/122962305-79bb7d00-d3af-11eb-97bb-0d10ad5313e7.png)
+
+# 7. Menambahkan Cofig
+![Screenshot (226)](https://user-images.githubusercontent.com/81582495/122962505-aff8fc80-d3af-11eb-9103-e055566464de.png)
+![Screenshot (230)](https://user-images.githubusercontent.com/81582495/122962535-b6877400-d3af-11eb-920f-c414067a638c.png)
+
+
 
 
