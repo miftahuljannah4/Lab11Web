@@ -6,17 +6,19 @@
 
 # Langkah-langkah Praktikum Lab11Web
 
-# 1. Aktifasi Xampp
+# 1. Melakukan Aktifasi Xampp
 ![Screenshot (152)](https://user-images.githubusercontent.com/81582495/121889333-52c3d200-cd43-11eb-9bcc-f7d44c48c9cc.png)
 
 # 2. Mengaktifkan Ekstentsi
 ![ext](https://user-images.githubusercontent.com/81582495/121797318-b10c8a00-cc49-11eb-9f6b-2b9b43f3f32a.png)
 
-# 3. Php Spark
-![spark](https://user-images.githubusercontent.com/81582495/121797458-748d5e00-cc4a-11eb-810a-315c130c4c53.PNG)
-
-# 4. Instalasi Codeigniter 4
+# 3. Instalasi Codeigniter 4
+# Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara manual dan menggunakan composer. Pada praktikum ini kita menggunakan cara manual.
 ![tmpln](https://user-images.githubusercontent.com/81582495/121797368-e87b3680-cc49-11eb-9ec6-05bdeb9c256c.png)
+
+# 4. Mengaktifkan Php Spark
+![image](https://user-images.githubusercontent.com/81582495/123446450-19bd1480-d603-11eb-8c9b-37422bd4f2ee.png)
+![spark](https://user-images.githubusercontent.com/81582495/121797458-748d5e00-cc4a-11eb-810a-315c130c4c53.PNG)
 
 # 5. Mengaktifkan Mode Debugging
 ![aktfdb](https://user-images.githubusercontent.com/81582495/121797478-92f35980-cc4a-11eb-965c-d0a06d4f50d7.PNG)
