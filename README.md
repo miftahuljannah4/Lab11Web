@@ -136,27 +136,60 @@
 # 1. Membuat Table User
 ![image](https://user-images.githubusercontent.com/81582495/122961739-e3875700-d3ae-11eb-93db-284c349b2dde.png)
 
-# 2. Membuat Model User
-![Screenshot (224)](https://user-images.githubusercontent.com/81582495/122960381-8c34b700-d3ad-11eb-8499-61c2093bdd95.png)
+# 2. Membuat Model untuk memproses data Login. Buat file baru pada direktori app/Models dengan nama UserModel.php
+![Screenshot (248)](https://user-images.githubusercontent.com/81582495/123441234-cf856480-d5fd-11eb-80e1-e1e15d7bb8a7.png)
 
-# 3. Membuat Controller User
-![Screenshot (231)](https://user-images.githubusercontent.com/81582495/122960595-c00fdc80-d3ad-11eb-8368-71b5f769cece.png)
+# 3. Membuat Controller baru dengan nama User.php pada direktori app/Controllers.
+# Kemudian tambahkan method index() untuk menampilkan daftar user, dan method login() untuk proses login.
+![image](https://user-images.githubusercontent.com/81582495/123441533-28ed9380-d5fe-11eb-876a-41ae1467f566.png)
+![image](https://user-images.githubusercontent.com/81582495/123441602-3efb5400-d5fe-11eb-8552-4e7e878046c4.png)
 
 # 4. Membuat View Log In
-![Screenshot (223)](https://user-images.githubusercontent.com/81582495/122960768-f3526b80-d3ad-11eb-80e5-d4ab45537f90.png)
+# Buat direktori baru dengan nama user pada direktori app/views, kemudian buat file baru dengan nama login.php.
+![Screenshot (249)](https://user-images.githubusercontent.com/81582495/123441836-7cf87800-d5fe-11eb-8b62-3989efe059cc.png)
 
 # 5. Membuat Database Seeder
-![image](https://user-images.githubusercontent.com/81582495/122962093-424cd080-d3af-11eb-86ae-a449fc7fd014.png)
-![Screenshot (228)](https://user-images.githubusercontent.com/81582495/122962183-5bee1800-d3af-11eb-94eb-8bce4b306e78.png)
-![Screenshot (222)](https://user-images.githubusercontent.com/81582495/122962239-66a8ad00-d3af-11eb-9bd4-cd49837d605e.png)
+# Database seeder digunakan untuk membuat data dummy. Untuk keperluan ujicoba modul login, kita perlu memasukkan data user dan password kedaalam database. Untuk itu buat database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
+![create seed](https://user-images.githubusercontent.com/81582495/123442885-8d5d2280-d5ff-11eb-872f-6bf70cd119c9.PNG)
 
-# 6. Menambahkan Auth Filter
-![Screenshot (227)](https://user-images.githubusercontent.com/81582495/122962305-79bb7d00-d3af-11eb-97bb-0d10ad5313e7.png)
+# Selanjutnya, buka file UserSeeder.php yang berada di lokasi direktori /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
+![image](https://user-images.githubusercontent.com/81582495/123442186-d19bf300-d5fe-11eb-95e6-a85549a1a39c.png)
 
-# 7. Menambahkan Cofig
-![Screenshot (226)](https://user-images.githubusercontent.com/81582495/122962505-aff8fc80-d3af-11eb-9103-e055566464de.png)
-![Screenshot (230)](https://user-images.githubusercontent.com/81582495/122962535-b6877400-d3af-11eb-920f-c414067a638c.png)
+# Selanjutnya buka kembali CLI dan ketik perintah berikut:
+![seed](https://user-images.githubusercontent.com/81582495/123441978-a4e7db80-d5fe-11eb-8cdd-e7e7f0cdc982.PNG)
 
+# Uji Coba Login
+Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+ 
+# 6 Menambahkan Auth Filter
+# Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters.
+![image](https://user-images.githubusercontent.com/81582495/123443608-40c61700-d600-11eb-8e59-ef3a34103ac6.png)
 
+# Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+![image](https://user-images.githubusercontent.com/81582495/123443741-605d3f80-d600-11eb-865f-0d2073d9f33a.png)
+
+# Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
+![image](https://user-images.githubusercontent.com/81582495/123443888-808cfe80-d600-11eb-9e87-174c60f98c43.png)
+
+# 7 Percobaan Akses Menu Admin
+Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut
+diakses maka, akan dimuculkan halaman login.
+![Screenshot (243)](https://user-images.githubusercontent.com/81582495/123443986-98648280-d600-11eb-888e-4a238427be19.png)
+
+# Memasukkan Email dan Password
+![Screenshot (244)](https://user-images.githubusercontent.com/81582495/123444063-b16d3380-d600-11eb-980d-cc824e49eedd.png)
+
+# Masuk ke Tampilan setelah Login
+![Screenshot (245)](https://user-images.githubusercontent.com/81582495/123444295-f1341b00-d600-11eb-9206-20adebb4b7c3.png)
+
+# 8 Menambahkan fungsi Logout
+Tambahkan method logout pada Controller User seperti berikut:
+![image](https://user-images.githubusercontent.com/81582495/123444402-0f018000-d601-11eb-8f29-c3c3cad9e291.png)
+
+# Tampilan ketika proses Logout
+![Screenshot (246)](https://user-images.githubusercontent.com/81582495/123444611-4708c300-d601-11eb-820f-293eadc98386.png)
+
+# Tampilan setelah Logout
+![Screenshot (247)](https://user-images.githubusercontent.com/81582495/123444657-538d1b80-d601-11eb-9c3b-5f877ea5f84f.png)
 
 
