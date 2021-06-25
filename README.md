@@ -159,7 +159,8 @@
 ![seed](https://user-images.githubusercontent.com/81582495/123441978-a4e7db80-d5fe-11eb-8cdd-e7e7f0cdc982.PNG)
 
 # Uji Coba Login
-Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+# Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+![image](https://user-images.githubusercontent.com/81582495/123444936-9f3fc500-d601-11eb-958c-f0372adf8d48.png)
  
 # 6 Menambahkan Auth Filter
 # Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters.
@@ -172,24 +173,23 @@ Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
 ![image](https://user-images.githubusercontent.com/81582495/123443888-808cfe80-d600-11eb-9e87-174c60f98c43.png)
 
 # 7 Percobaan Akses Menu Admin
-Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut
-diakses maka, akan dimuculkan halaman login.
-![Screenshot (243)](https://user-images.githubusercontent.com/81582495/123443986-98648280-d600-11eb-888e-4a238427be19.png)
+# Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka, akan dimuculkan halaman login.
+![image](https://user-images.githubusercontent.com/81582495/123445072-bc749380-d601-11eb-8e10-b6df9af82c25.png)
 
 # Memasukkan Email dan Password
-![Screenshot (244)](https://user-images.githubusercontent.com/81582495/123444063-b16d3380-d600-11eb-980d-cc824e49eedd.png)
+![image](https://user-images.githubusercontent.com/81582495/123445184-d910cb80-d601-11eb-9c72-b4b8d9747854.png)
 
 # Masuk ke Tampilan setelah Login
-![Screenshot (245)](https://user-images.githubusercontent.com/81582495/123444295-f1341b00-d600-11eb-9206-20adebb4b7c3.png)
+![image](https://user-images.githubusercontent.com/81582495/123445262-eded5f00-d601-11eb-9a75-a7fd45250193.png)
 
 # 8 Menambahkan fungsi Logout
-Tambahkan method logout pada Controller User seperti berikut:
+# Tambahkan method logout pada Controller User seperti berikut:
 ![image](https://user-images.githubusercontent.com/81582495/123444402-0f018000-d601-11eb-8f29-c3c3cad9e291.png)
 
 # Tampilan ketika proses Logout
-![Screenshot (246)](https://user-images.githubusercontent.com/81582495/123444611-4708c300-d601-11eb-820f-293eadc98386.png)
+![image](https://user-images.githubusercontent.com/81582495/123445389-078ea680-d602-11eb-8a37-888f38c1ec63.png)
 
 # Tampilan setelah Logout
-![Screenshot (247)](https://user-images.githubusercontent.com/81582495/123444657-538d1b80-d601-11eb-9c3b-5f877ea5f84f.png)
+![image](https://user-images.githubusercontent.com/81582495/123445429-0fe6e180-d602-11eb-8f52-29232da9ba12.png)
 
 
