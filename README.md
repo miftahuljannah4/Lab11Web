@@ -178,6 +178,11 @@
 # Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka, akan dimuculkan halaman login.
 ![image](https://user-images.githubusercontent.com/81582495/123445072-bc749380-d601-11eb-8e10-b6df9af82c25.png)
 
+# Menambahkan Auth Filter
+# Mmembuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters. 
+![image](https://user-images.githubusercontent.com/81582495/123650014-68adb880-d854-11eb-9daf-129fa4197205.png)
+![image](https://user-images.githubusercontent.com/81582495/123650218-92ff7600-d854-11eb-8692-bebfa00b2801.png)
+
 # Memasukkan Email dan Password
 ![image](https://user-images.githubusercontent.com/81582495/123445184-d910cb80-d601-11eb-9c72-b4b8d9747854.png)
 
