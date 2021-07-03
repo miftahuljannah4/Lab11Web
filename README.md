@@ -4,7 +4,7 @@
 # NIM   : 311910740
 # Lab11Web, Lab12Web, Lab13Web, dan Lab14Web
 
-# Langkah-langkah Praktikum Lab11Web
+# LANGKAH-LANGKAH PRAKTIKUM Lab11Web
 
 # 1. Melakukan Aktifasi Xampp
 ![Screenshot (152)](https://user-images.githubusercontent.com/81582495/121889333-52c3d200-cd43-11eb-9bcc-f7d44c48c9cc.png)
@@ -75,7 +75,7 @@
 ![kontak2](https://user-images.githubusercontent.com/81582495/121798536-2def3200-cc51-11eb-9f5d-7d8d7254ddfb.png)
 ![Screenshot (151)](https://user-images.githubusercontent.com/81582495/121798511-04cea180-cc51-11eb-8aa6-826cc344726e.png)
 
-# Langkah-langkah Praktikum Lab12Web (Lanjutan Lab11Web)
+# LANGKAH-LANGKAH PRAKTIKUM 12 (Lanjutan Lab11Web)
 
 # 1 Membuat Database dan Tabel
 ![image](https://user-images.githubusercontent.com/81582495/122651625-3f11d480-d164-11eb-9d28-9854e94be1ac.png)
@@ -133,7 +133,7 @@
 ![Screenshot (216)](https://user-images.githubusercontent.com/81582495/122652366-ba758500-d168-11eb-8512-4768f73aeb92.png)
 ![Screenshot (217)](https://user-images.githubusercontent.com/81582495/122652373-bcd7df00-d168-11eb-8682-8eba6ff050ca.png)
 
-# Langkah-Langkah Praktikum 13 Lanjutan
+#  LANGKAH-LANGKAH PRAKTIKUM 13 Lanjutan Praktikum 11 dan 12
 
 # 1. Membuat Table User
 ![image](https://user-images.githubusercontent.com/81582495/122961739-e3875700-d3ae-11eb-93db-284c349b2dde.png)
@@ -199,7 +199,7 @@
 # Tampilan setelah Logout
 ![image](https://user-images.githubusercontent.com/81582495/123445429-0fe6e180-d602-11eb-8f52-29232da9ba12.png)
 
-# Langkah-langkah Praktikum 14
+#  LANGKAH-LANGKAH PRAKTIKUM 14 Lanjutan Praktikum 11, 12, dan 13
 
 # 1. Membuat Pagination
 # Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode pada method admin_index 
