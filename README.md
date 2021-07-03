@@ -2,7 +2,7 @@
 # Nama  : Miftahul Jannah
 # Kelas : TI19B2
 # NIM   : 311910740
-# Lab11Web, Lab12Web dan Lab13Web
+# Lab11Web, Lab12Web, Lab13Web, dan Lab14Web
 
 # Langkah-langkah Praktikum Lab11Web
 
